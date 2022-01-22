@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "461946043851",
+    "project_id": "crypto-wallet-dc47e",
+    "storage_bucket": "crypto-wallet-dc47e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461946043851:android:48e5b26118037e83684a4e",
+        "android_client_info": {
+          "package_name": "com.fahimkamal63.crypto_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461946043851-to0qsmtc317ng3fm959tuvhdg4fj0ppr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fahimkamal63.crypto_wallet",
+            "certificate_hash": "b1b54460e4f1f95a02e83d70d18739ead8272d0c"
+          }
+        },
+        {
+          "client_id": "461946043851-6fq0g9bvc5u8dknph5ovvs56nc637hsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLSGv47fG_3xXwRC7OtD2porQEZGg5mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461946043851-6fq0g9bvc5u8dknph5ovvs56nc637hsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
